@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/contactBook/static/css/main.e45597cd.chunk.css",
+    "main.js": "/contactBook/static/js/main.bbaee2be.chunk.js",
+    "main.js.map": "/contactBook/static/js/main.bbaee2be.chunk.js.map",
+    "runtime-main.js": "/contactBook/static/js/runtime-main.d67cc881.js",
+    "runtime-main.js.map": "/contactBook/static/js/runtime-main.d67cc881.js.map",
+    "static/css/2.3c526f5d.chunk.css": "/contactBook/static/css/2.3c526f5d.chunk.css",
+    "static/js/2.0eab681e.chunk.js": "/contactBook/static/js/2.0eab681e.chunk.js",
+    "static/js/2.0eab681e.chunk.js.map": "/contactBook/static/js/2.0eab681e.chunk.js.map",
+    "index.html": "/contactBook/index.html",
+    "static/css/2.3c526f5d.chunk.css.map": "/contactBook/static/css/2.3c526f5d.chunk.css.map",
+    "static/css/main.e45597cd.chunk.css.map": "/contactBook/static/css/main.e45597cd.chunk.css.map",
+    "static/js/2.0eab681e.chunk.js.LICENSE.txt": "/contactBook/static/js/2.0eab681e.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/contactBook/static/media/bg.ecf00495.png",
+    "static/media/icon-user.190479eb.png": "/contactBook/static/media/icon-user.190479eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d67cc881.js",
+    "static/css/2.3c526f5d.chunk.css",
+    "static/js/2.0eab681e.chunk.js",
+    "static/css/main.e45597cd.chunk.css",
+    "static/js/main.bbaee2be.chunk.js"
+  ]
+}
